@@ -26,10 +26,9 @@ Welcome to **Guess The Country**, a simple and interactive web application that 
 
 1. Ensure you have [Node.js](https://nodejs.org/) and [PostgreSQL](https://www.postgresql.org/) installed on your machine.
 2. Clone the repository:
-
-   ```bash
-   git clone https://github.com/trigunom/Guess-The-Country.git
-    ```
+```bash
+ git clone https://github.com/trigunom/Guess-The-Country.git
+```
 3. Navigate to the project directory:
 
 ```bash
@@ -79,4 +78,5 @@ npm index.js
 - **HTML, CSS, EJS:** Front-end technologies for building the user     interface.
 
 ## UI
-
+[!App Scrrenshot](public/images/screenshot.png)
+[!App Scrrenshot](public/images/screenshot2.png)
