@@ -78,5 +78,5 @@ npm index.js
 - **HTML, CSS, EJS:** Front-end technologies for building the user     interface.
 
 ## UI
-![App Scrrenshot](public/images/screenshot.png)
-![App Scrrenshot](public/images/screenshot2.png)
+![App Screenshot](public/images/screenshot.png)
+![App Screenshot](public/images/screenshot2.png)
